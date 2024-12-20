@@ -1,5 +1,5 @@
 # EDA-analysis-on-mental-health
-Exploratory Data analysis on mental health among collenge students using python 
+Exploratory Data analysis on mental health among collenge students using python  
 This repository contains an Exploratory Data Analysis (EDA) project that focuses on understanding the prevalence of anxiety and depression among college students. 
 The project aims to provide insights into the mental health landscape among students using data analysis techniques and Python programming.
 # Dataset
